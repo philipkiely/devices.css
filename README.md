@@ -11,4 +11,4 @@ This repo was modified from [marvelapp/devices.css](https://github.com/marvelapp
 
 The original repository contains a ~2500 line scss file that I copied into `devices_old.scss`. I wrote `process.py` to rewrite the file with the `$size_divisor` variable and the correct `calc()` statements made and modified.
 
-Read about it on [my blog](https://philipkiely.com/blog/first-open-source.html)
+Read about it on [my blog](https://philipkiely.com/essays/first-open-source.html)
