@@ -1,7 +1,7 @@
 # devices.css
 This repo was modified from [marvelapp/devices.css](https://github.com/marvelapp/devices.css). I took the same devices and made them resizable.
 
-Read about it on CSS Tricks (coming soon).
+Read about it on [CSS Tricks](https://css-tricks.com/turning-a-fixed-size-object-into-a-responsive-element/).
 
 ## How to use it
 
